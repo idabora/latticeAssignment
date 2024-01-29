@@ -33,3 +33,5 @@ Add other API endpoints with details
 ## File Upload
 File upload is handled using Multer middleware.
 The uploaded photo is stored with a filename based on the current date.
+## POSTMAN URL LINK
+https://api.postman.com/collections/19430201-af27a969-de64-4323-b23f-ac55e38732c4?access_key=PMAT-01HNB2YNZN8J9J5CGN051BPJKE
