@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "65b7737e57f50a1012beef07",
+        "hospitalName": "AIIMS - All India Institute Of Medical Science",
+        "totalPsychiatristCount": 11,
+        "totalPatientCount": 0,
+        "createdAt": "2024-01-29T09:44:30.182Z",
+        "updatedAt": "2024-01-29T13:30:47.387Z",
+        "__v": 0,
+        "psychiatristDetails": [
+            "65b7737e57f50a1012beef07",
+            "65b7a887bc91b1717fde0dd1",
+            "65b7a887bc91b1717fde0dd4",
+            "65b7a887bc91b1717fde0dda",
+            "65b7a887bc91b1717fde0ddd",
+            "65b7a887bc91b1717fde0de0",
+            "65b7a887bc91b1717fde0de3",
+            "65b7a887bc91b1717fde0df2",
+            "65b7a887bc91b1717fde0e01",
+            "65b7a887bc91b1717fde0e0a",
+            "65b7a887bc91b1717fde0e37"
+        ]
+    },
+    {
+        "_id": "65b78fb4a65cc2f733f87cf5",
+        "hospitalName": "Jawaharlal Nehru Medical College and Hospital",
+        "totalPsychiatristCount": 12,
+        "totalPatientCount": 0,
+        "createdAt": "2024-01-29T11:44:52.114Z",
+        "updatedAt": "2024-01-29T13:30:47.393Z",
+        "__v": 0,
+        "psychiatristDetails": [
+            "65b7a887bc91b1717fde0dbc",
+            "65b7a887bc91b1717fde0dc8",
+            "65b7a887bc91b1717fde0dec",
+            "65b7a887bc91b1717fde0df5",
+            "65b7a887bc91b1717fde0e04",
+            "65b7a887bc91b1717fde0e0d",
+            "65b7a887bc91b1717fde0e10",
+            "65b7a887bc91b1717fde0e16",
+            "65b7a887bc91b1717fde0e19",
+            "65b7a887bc91b1717fde0e28",
+            "65b7a887bc91b1717fde0e34",
+            "65b7a887bc91b1717fde0e3a"
+        ]
+    },
+    {
+        "_id": "65b78fd4a65cc2f733f87cf7",
+        "hospitalName": "Indira Gandhi Institute of Medical Sciences (IGIMS)",
+        "totalPsychiatristCount": 12,
+        "totalPatientCount": 0,
+        "createdAt": "2024-01-29T11:45:24.435Z",
+        "updatedAt": "2024-01-29T13:30:47.378Z",
+        "__v": 0,
+        "psychiatristDetails": [
+            "65b7a887bc91b1717fde0db9",
+            "65b7a887bc91b1717fde0dbf",
+            "65b7a887bc91b1717fde0dc2",
+            "65b7a887bc91b1717fde0dce",
+            "65b7a887bc91b1717fde0dd7",
+            "65b7a887bc91b1717fde0de6",
+            "65b7a887bc91b1717fde0def",
+            "65b7a887bc91b1717fde0e07",
+            "65b7a887bc91b1717fde0e13",
+            "65b7a887bc91b1717fde0e1c",
+            "65b7a887bc91b1717fde0e22",
+            "65b7a887bc91b1717fde0e31"
+        ]
+    },
+    {
+        "_id": "65b79339be5a9d2b018e645e",
+        "hospitalName": "Apollo Hospitals",
+        "totalPsychiatristCount": 11,
+        "totalPatientCount": 0,
+        "createdAt": "2024-01-29T11:59:53.528Z",
+        "updatedAt": "2024-01-29T13:30:47.370Z",
+        "__v": 0,
+        "psychiatristDetails": [
+            "65b7a887bc91b1717fde0db6",
+            "65b7a887bc91b1717fde0dc5",
+            "65b7a887bc91b1717fde0dcb",
+            "65b7a887bc91b1717fde0de9",
+            "65b7a887bc91b1717fde0df8",
+            "65b7a887bc91b1717fde0dfb",
+            "65b7a887bc91b1717fde0dfe",
+            "65b7a887bc91b1717fde0e1f",
+            "65b7a887bc91b1717fde0e25",
+            "65b7a887bc91b1717fde0e2b",
+            "65b7a887bc91b1717fde0e2e"
+        ]
+    }
+]
